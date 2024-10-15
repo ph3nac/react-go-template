@@ -1,4 +1,4 @@
-# GO server
+# Golang server
 
 ## this is api server written in go
 
