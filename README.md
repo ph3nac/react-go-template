@@ -1,4 +1,4 @@
-# React, Golang, GraphQl Boilerplate
+# React, Golang, GraphQL Boilerplate
 
 > WIP
 
